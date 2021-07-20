@@ -1,0 +1,1 @@
+UPDATE usuarios SET nombre='Joaquin',fecha='2020-05-12' WHERE nombre = 'Joquin' id=3;
